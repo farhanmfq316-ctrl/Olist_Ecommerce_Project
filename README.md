@@ -13,6 +13,14 @@ This project analyzes the Brazilian E-Commerce Public Dataset by Olist to unders
 
 The project combines PostgreSQL, SQL, Power BI, and DAX to transform raw transactional data into actionable business insights.
 
+## 💼 Project Summary
+
+An end-to-end e-commerce analytics project using the Brazilian E-Commerce Public Dataset by Olist.
+
+I used PostgreSQL and SQL for data validation, transformation, joins, and business analysis, then built an interactive Power BI dashboard using DAX to analyze sales performance, customer behavior, delivery operations, and customer satisfaction.
+
+The analysis identified key opportunities around customer retention, delivery performance, and product category performance.
+
 ## 📊 Power BI Dashboard
    ![Olist E-commerce Dashboard](Screenshots/olist_dashboard.png)
 
