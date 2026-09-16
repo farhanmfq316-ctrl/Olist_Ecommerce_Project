@@ -238,6 +238,7 @@ Olist_Ecommerce_Project/
 ├── .gitignore
 ├── .gitattributes
 └── README.md
+```
 
 ## 👤 Author
 
