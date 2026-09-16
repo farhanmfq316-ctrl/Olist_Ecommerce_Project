@@ -253,7 +253,7 @@ SQL | PostgreSQL | Power BI | DAX | Excel | Python | Business Analytics | AI & P
 
 The analysis was performed using PostgreSQL to validate the dataset, join transactional tables, and answer key business questions.
 
-### Key SQL Findings
+## Key SQL Findings
 
 - **Total Product Sales:** 13.59M
 - **Total Orders:** 99,441
@@ -263,7 +263,7 @@ The analysis was performed using PostgreSQL to validate the dataset, join transa
 - **Repeat Customers:** 2,997
 - **One-Time Customers:** 93,099
 
-### Business Insights
+## Business Insights
 
 - Repeat customers generated higher average sales per customer than one-time customers.
 - Delivery performance was strongly associated with customer satisfaction; late deliveries received substantially lower average review scores.
