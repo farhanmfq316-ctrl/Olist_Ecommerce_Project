@@ -240,3 +240,24 @@ Middlesex University Dubai
 
 **Core Skills:**  
 SQL | PostgreSQL | Power BI | DAX | Excel | Python | Business Analytics | AI & Predictive Analytics
+
+## 🔎 SQL Analysis
+
+The analysis was performed using PostgreSQL to validate the dataset, join transactional tables, and answer key business questions.
+
+### Key SQL Findings
+
+- **Total Product Sales:** 13.59M
+- **Total Orders:** 99,441
+- **Unique Customers:** 96,096
+- **On-Time Delivery:** 91.89%
+- **Average Order Value:** 160.58
+- **Repeat Customers:** 2,997
+- **One-Time Customers:** 93,099
+
+### Business Insights
+
+- Repeat customers generated higher average sales per customer than one-time customers.
+- Delivery performance was strongly associated with customer satisfaction; late deliveries received substantially lower average review scores.
+- Health & Beauty, Watches & Gifts, and Bed/Bath/Table were among the highest-sales product categories.
+- The majority of customers made only one purchase, indicating an opportunity to improve customer retention.
