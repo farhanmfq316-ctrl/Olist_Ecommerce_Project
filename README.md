@@ -13,6 +13,9 @@ This project analyzes the Brazilian E-Commerce Public Dataset by Olist to unders
 
 The project combines PostgreSQL, SQL, Power BI, and DAX to transform raw transactional data into actionable business insights.
 
+## 📊 Power BI Dashboard
+   ![Olist E-commerce Dashboard](Screenshots/olist_dashboard.png)
+
 
 ## 🎯 Business Objectives
 
